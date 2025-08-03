@@ -5,7 +5,7 @@ This is a collection of my basic web development projects, created as I learn an
 Most of these are simple or experimental and may not serve any practical use — for now. But they help me track my progress and creativity.
 
 🔗 **Live Projects Homepage**:
-👉 [View Projects](https://rishap6.github.io/B-projects/)
+👉 [View Projects](https://rishap6.github.io/B-Proj/)
 
 ---
 
